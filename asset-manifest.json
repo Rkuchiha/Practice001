@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Practice001/static/css/main.a043bfe3.css",
+    "main.js": "/Practice001/static/js/main.38e2ed5f.js",
+    "static/media/portfolio3.png": "/Practice001/static/media/portfolio3.84349d076c8ae06d3d85.png",
+    "static/media/me-about.jpg": "/Practice001/static/media/me-about.bbf4e1e05011d6330ea9.jpg",
+    "static/media/portfolio2.jpg": "/Practice001/static/media/portfolio2.9a82126571b04f8a5980.jpg",
+    "static/media/bg-texture.png": "/Practice001/static/media/bg-texture.0ec9d8186d23249e0a24.png",
+    "static/media/portfolio1.jpg": "/Practice001/static/media/portfolio1.1ac34d3f06cefbccd1b0.jpg",
+    "static/media/portfolio5.jpg": "/Practice001/static/media/portfolio5.18c2dba0f3935298f9f1.jpg",
+    "static/media/portfolio4.jpg": "/Practice001/static/media/portfolio4.f360a3c0c447afa7ea9b.jpg",
+    "static/media/portfolio6.jpg": "/Practice001/static/media/portfolio6.eceeb01d9c56715a1f66.jpg",
+    "static/media/me.png": "/Practice001/static/media/me.69dacfe50584b6f23749.png",
+    "static/media/avatar3.png": "/Practice001/static/media/avatar3.492062661598d34fe09e.png",
+    "static/media/avatar1.png": "/Practice001/static/media/avatar1.fa2df273788697c9d247.png",
+    "static/media/avatar2.png": "/Practice001/static/media/avatar2.fa358f97478acf5a19d1.png",
+    "static/media/cv.pdf": "/Practice001/static/media/cv.3ea5199d66354fb8c217.pdf",
+    "index.html": "/Practice001/index.html",
+    "main.a043bfe3.css.map": "/Practice001/static/css/main.a043bfe3.css.map",
+    "main.38e2ed5f.js.map": "/Practice001/static/js/main.38e2ed5f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a043bfe3.css",
+    "static/js/main.38e2ed5f.js"
+  ]
+}
